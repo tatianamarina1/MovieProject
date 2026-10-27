@@ -35,6 +35,7 @@ Movie Data : The primary dataset used for this analysis is the "Movie Data Homew
 ### Dashboard
 <img width="776" height="625" alt="Dashboard_excel" src="https://github.com/user-attachments/assets/e8272a18-1919-4e60-856c-43d89f6f0347" />
 
+### M code
 ```
 let
     Source = Excel.Workbook(File.Contents("C:\Users\suri-\Documents\Data_analyst_course\Movies_Data_Homework.xlsx"), null, true),
@@ -78,4 +79,4 @@ let
 in
     #"Changed Type1"
 ```
-
+### Recommendations
