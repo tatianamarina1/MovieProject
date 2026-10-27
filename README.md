@@ -6,6 +6,7 @@
 - [Data Cleaning](#data-cleaning)
 - [Dashboard](#dashboard)
 - [M code](#m-code)
+- [Recommendations](#recommendations)
 
 ### Problem Statement
 Netflix wants to better understand which movie they should produce next, including the most suitable actors and directors. We have a dataset containing movie budgets, box office performance, actors, directors, and genres.
@@ -80,7 +81,7 @@ in
     #"Changed Type1"
 ```
 ### Recommendations
-
+Top 5 genres are Action, Comedy, Drama, Sci-Fi and Adventure. I would recommend Netflix to produce a movie with one of these genres as they brought in more in box office revenue based on the data from 2012 to 2016
 
 <img width="643" height="246" alt="image" src="https://github.com/user-attachments/assets/7ce0264d-8bd7-44c1-b334-9faf55b911e9" />
 
