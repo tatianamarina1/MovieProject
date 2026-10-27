@@ -85,9 +85,16 @@ Top 5 genres are Action, Comedy, Drama, Sci-Fi and Adventure. I would recommend 
 
 <img width="643" height="246" alt="image" src="https://github.com/user-attachments/assets/7ce0264d-8bd7-44c1-b334-9faf55b911e9" />
 
-Horror is the most successful genre in term of ROI (return on investment).
+Horror is the most successful genre in term of ROI (return on investment)
 <img width="772" height="252" alt="image" src="https://github.com/user-attachments/assets/cc80abdf-950d-4a85-be97-6396114e2837" />
 
+The best-performing actors are Jennifer Lawrence, Tom Cruise, Hugh Jackman, Ben Affleck, Adam Sandler.
+
+Top 5 Directors are Chris Renaud, Zack Snyder, Francis Lawrence, Bryan Singer, Steve Martino based on box office metrics.
+
+Action movies released in March, May, June, and July were the most successful. Comedy movies released in June were much more successful than those released in other months.
+
+Horror has three peaks during the year: January, June, and September.
 
 
 
