@@ -24,3 +24,10 @@ Movie Data : The primary dataset used for this analysis is the "Movie Data Homew
 1. Power Query - I used Power Query for Data Cleaning and Data Transformation
 2. Excel - I used Excel for Data Analysis
 3. Pivot Tables - for Creating the dashboard and Visualizations
+
+### Data Cleaning
+- Data loading and inspection.
+- Combine data from different sources and tabs
+- Data cleaning and formatting. The excel file after the data cleaning & preparation process can be downloaded here - Movies Dashboard
+Dashboard
+
