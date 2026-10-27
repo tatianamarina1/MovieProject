@@ -3,7 +3,7 @@
 - [Problem Statement](#problem-statement)
 - [Data Source](#data-source)
 - [Tools](#tools)
-- []
+- [Data Cleaning](#data-cleaning)
 - []
 ### Problem Statement
 Netflix wants to better understand which movie they should produce next, including the most suitable actors and directors. We have a dataset containing movie budgets, box office performance, actors, directors, and genres.
@@ -28,6 +28,8 @@ Movie Data : The primary dataset used for this analysis is the "Movie Data Homew
 ### Data Cleaning
 - Data loading and inspection.
 - Combine data from different sources and tabs
-- Data cleaning and formatting. The excel file after the data cleaning & preparation process can be downloaded here - Movies Dashboard
-Dashboard
+- Data cleaning and formatting. The excel file after the data cleaning & preparation process can be downloaded here - [Movies Dashboard](https://github.com/user-attachments/files/34050753/Dashboard_Movies_Data_Homework.xlsx)
+
+### Dashboard
+
 
