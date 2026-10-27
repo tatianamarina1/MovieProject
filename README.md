@@ -94,7 +94,6 @@ Top 5 Directors are Chris Renaud, Zack Snyder, Francis Lawrence, Bryan Singer, S
 
 Action movies released in March, May, June, and July were the most successful. Comedy movies released in June were much more successful than those released in other months.
 
-Horror has three peaks during the year: January, June, and September.
-
+Horror movies have three peaks in popularity throughout the year: January, June, and September.
 
 
